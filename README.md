@@ -1,1 +1,1 @@
-# Komunik-cia-s-vyu-it-m-UDP-protokolu
+# Komunikacia-s-vyuzitim-UDP-protokolu
